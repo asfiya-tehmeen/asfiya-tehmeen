@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Asfiya Tehmeen and I'm a biotech engineer, from India</h2>
+<h2 align="left">Hi 👋! My name is Asfiya Tehmeen and I'm a Biotech engineer</h2>
 
 ###
 
