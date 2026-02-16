@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Asfiya Tehmeen and I'm a Biotech engineer. Passionate about Medical Affairs and Data Analytics</h2>
+<h2 align="left">Hi 👋 My name is Asfiya Tehmeen and I'm a Biotech engineer. Passionate about Data Analytics, AI and Compliance</h2>
 
 ###
 
