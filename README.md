@@ -1,11 +1,5 @@
-<div align="center">
+<h2 align="left">Hi! My name is Asfiya Tehmeen, I am Data Engineer, specializing in data analytics, compliance automation, and machine learning pipelines.</h2>
 
-<!-- Centered Graphic Header -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYyZG1ybzg3ZWdxOGk3Ymt5bXpxZmRieXAzazUycXZwNGpxNmt3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" alt="Icon"/>
-
-# Hey 👋, I'm Asfiya
-
-### Technical Compliance Analyst & Data Engineer — bridging data analytics and compliance
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-asfiya.tech-black?style=flat-square)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AsfiyaTehmeen-0A66C2?style=flat-square&logo=linkedin)](#)
