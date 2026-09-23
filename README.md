@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Asfiya Tehmeen, I am a Data Engineer, specializing in data analytics, compliance automation, and machine learning pipelines.</h2>
+<h2 align="left">Hi! I am Asfiya Tehmeen</h2>
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-asfiya.tech-black?style=flat-square)](#)
@@ -10,9 +10,9 @@
 
 ---
 
-I'm a **Technical Compliance Analyst** specializing in data analytics, compliance automation, and machine learning pipelines. My work focuses on leveraging Python, SQL, and Streamlit to optimize workflows, regulatory auditing, and data visualization.
+I am a Data Engineer, specializing in data analytics, compliance automation, and machine learning pipelines. My work focuses on leveraging Python, SQL, and Streamlit to optimize workflows, regulatory auditing, and data visualization.
 
-**Previously:** Growth Data Analyst Intern at ECity, Business Growth & Marketing Analyst at Ta'seer, and Google Developer Groups Lead.
+**Previously:** Technical Compliance Analyst at TUV Rheinland.
 
 ---
 
@@ -41,9 +41,6 @@ I'm a **Technical Compliance Analyst** specializing in data analytics, complianc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
 
-
-<h2 align="left">Hi 👋 My name is Asfiya Tehmeen, I am an Engineer passionate about Data Analytics, AI and Compliance</h2>
-
 ###
 
 <div align="center">
@@ -55,21 +52,7 @@ I'm a **Technical Compliance Analyst** specializing in data analytics, complianc
 
 <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1280/format:webp/1*ubCR6WyFNthQVQ9D4AIO9g.gif"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-</div>
 
 ###
 
@@ -85,7 +68,5 @@ I'm a **Technical Compliance Analyst** specializing in data analytics, complianc
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/asfiya-tehmeen/asfiya-tehmeen/output/snake.svg" alt="Snake animation" />
 
 ###
