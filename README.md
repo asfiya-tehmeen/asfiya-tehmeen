@@ -15,8 +15,6 @@
 
 ## Projects
 
-## Projects
-
 | Project | What it does | Tech Stack |
 | :--- | :--- | :--- |
 | **[Payer Claims Analytics](https://github.com/asfiya-tehmeen/payer-claims-risk-stratification)** | Streamlit dashboard pipeline for healthcare claims risk stratification. | `Python` `Streamlit` `Pandas` |
