@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Asfiya Tehmeen, I am Data Engineer, specializing in data analytics, compliance automation, and machine learning pipelines.</h2>
+<h2 align="left">Hi! My name is Asfiya Tehmeen, I am a Data Engineer, specializing in data analytics, compliance automation, and machine learning pipelines.</h2>
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-asfiya.tech-black?style=flat-square)](#)
