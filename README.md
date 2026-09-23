@@ -1,3 +1,53 @@
+<div align="center">
+
+<!-- Centered Graphic Header -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYyZG1ybzg3ZWdxOGk3Ymt5bXpxZmRieXAzazUycXZwNGpxNmt3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" alt="Icon"/>
+
+# Hey 👋, I'm Asfiya
+
+### Technical Compliance Analyst & Data Engineer — bridging data analytics and compliance
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-asfiya.tech-black?style=flat-square)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AsfiyaTehmeen-0A66C2?style=flat-square&logo=linkedin)](#)
+[![Medium](https://img.shields.io/badge/Blog-Medium-black?style=flat-square&logo=medium)](#)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail)](#)
+
+</div>
+
+---
+
+I'm a **Technical Compliance Analyst** specializing in data analytics, compliance automation, and machine learning pipelines. My work focuses on leveraging Python, SQL, and Streamlit to optimize workflows, regulatory auditing, and data visualization.
+
+**Previously:** Growth Data Analyst Intern at ECity, Business Growth & Marketing Analyst at Ta'seer, and Google Developer Groups Lead.
+
+---
+
+## Projects
+
+| Project | What it does |
+| :--- | :--- |
+| **[Payer Claims Analytics](#)** | Streamlit dashboard pipeline for healthcare claims risk stratification. |
+| **[PharmaDash](#)** | Data analytics and market intelligence tracking pharmaceutical commercial trends. |
+| **[Compliance Automation](#)** | Automated compliance verification tools and regulatory data pipelines. |
+
+---
+
+## Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+</div>
+
+
 <h2 align="left">Hi 👋 My name is Asfiya Tehmeen, I am an Engineer passionate about Data Analytics, AI and Compliance</h2>
 
 ###
