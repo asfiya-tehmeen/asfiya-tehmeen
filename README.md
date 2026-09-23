@@ -6,7 +6,7 @@
 *Specializing in data analytics, compliance automation, and machine learning pipelines. My work focuses on leveraging Python, SQL, and Streamlit to optimize workflows, regulatory auditing, and data visualization.*
 
 <!-- Modern Rounded Pill Badges with Official Colors -->
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
+<a href="https://asfiya-tehmeen-1portfolio.notion.site/Asfiya-Tehmeen-3d78ded1d5d580c5bc73f126a6c4556a"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:asfiyatehmeen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/asfiya-tehmeen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/asfiya_chronicles/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
