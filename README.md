@@ -1,33 +1,26 @@
 <h2 align="left">Hi! I am Asfiya Tehmeen</h2>
+# Asfiya Tehmeen
 
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-asfiya.tech-black?style=flat-square)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AsfiyaTehmeen-0A66C2?style=flat-square&logo=linkedin)](#)
-[![Medium](https://img.shields.io/badge/Blog-Medium-black?style=flat-square&logo=medium)](#)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail)](#)
+**AI & Data Engineer**  
+*Specializing in data analytics, compliance automation, and machine learning pipelines. My work focuses on leveraging Python, SQL, and Streamlit to optimize workflows, regulatory auditing, and data visualization.*
 
 <!-- Modern Rounded Pill Badges with Official Colors -->
-<a href="https://linkedin.com/in/asfiyatehmeen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://medium.com/@asfiyatehmeen"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-
+<a href="https://linkedin.com/in/asfiyatehmeen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/your_username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://medium.com/@asfiyatehmeen"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </div>
-
----
-
-I am a Data Engineer, specializing in data analytics, compliance automation, and machine learning pipelines. My work focuses on leveraging Python, SQL, and Streamlit to optimize workflows, regulatory auditing, and data visualization.
-
-**Previously:** Technical Compliance Analyst at TUV Rheinland.
 
 ---
 
 ## Projects
 
-| Project | What it does |
+| Project | What it does | Tech Stack |
 | :--- | :--- |
-| **[Payer Claims Analytics](#)** | Streamlit dashboard pipeline for healthcare claims risk stratification. |
-| **[PharmaDash](#)** | Data analytics and market intelligence tracking pharmaceutical commercial trends. |
-| **[Compliance Automation](#)** | Automated compliance verification tools and regulatory data pipelines. |
+| **[Payer Claims Analytics](#)** | Streamlit dashboard pipeline for healthcare claims risk stratification. |  Python, Streamlit, Pandas
+| **[PharmaDash](#)** | Data analytics and market intelligence tracking pharmaceutical commercial trends. | Data Analytics, BI
+| **[Compliance Automation](#)** | Automated compliance verification tools and regulatory data pipelines. | Python, SQL
 
 ---
 
