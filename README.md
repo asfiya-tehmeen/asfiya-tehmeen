@@ -14,17 +14,6 @@
 </div>
 
 ---
-
-## Projects
-
-| Project | What it does | Tech Stack |
-| :--- | :--- | :--- |
-| **[Payer Claims Analytics](https://github.com/asfiya-tehmeen/payer-claims-risk-stratification)** | Streamlit dashboard pipeline for healthcare claims risk stratification. | `Python` `Streamlit` `Pandas` |
-| **[PharmaDash](https://github.com/asfiya-tehmeen)** | Data analytics and market intelligence tracking pharmaceutical commercial trends. | `Python` `Power BI` `SQL` |
-| **[Compliance Automation](https://github.com/asfiya-tehmeen)** | Automated compliance verification tools and regulatory data pipelines. | `Python` `SQL` `Docker` |
-
----
-
 ## Tech Stack
 
 <div align="left">
@@ -59,6 +48,18 @@
   <!-- AI Tools & Dashboards -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" />
 </div>
+
+---
+
+## Projects
+
+| Project | What it does | Tech Stack |
+| :--- | :--- | :--- |
+| **[Payer Claims Analytics](https://github.com/asfiya-tehmeen/payer-claims-risk-stratification)** | Streamlit dashboard pipeline for healthcare claims risk stratification. | `Python` `Streamlit` `Pandas` |
+| **[PharmaDash](https://github.com/asfiya-tehmeen)** | Data analytics and market intelligence tracking pharmaceutical commercial trends. | `Python` `Power BI` `SQL` |
+| **[Compliance Automation](https://github.com/asfiya-tehmeen)** | Automated compliance verification tools and regulatory data pipelines. | `Python` `SQL` `Docker` |
+
+---
 
 ###
 <!--
