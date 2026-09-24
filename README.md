@@ -38,6 +38,14 @@
   <img width="12" />
 
   <!-- Data Engineering & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="gcp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="kafka logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
@@ -56,8 +64,8 @@
 | Project | What it does | Tech Stack |
 | :--- | :--- | :--- |
 | **[Payer Claims Analytics](https://github.com/asfiya-tehmeen/payer-claims-risk-stratification)** | Streamlit dashboard pipeline for healthcare claims risk stratification. | `Python` `Streamlit` `Pandas` |
-| **[PharmaDash](https://github.com/asfiya-tehmeen)** | Data analytics and market intelligence tracking pharmaceutical commercial trends. | `Python` `Power BI` `SQL` |
-| **[Compliance Automation](https://github.com/asfiya-tehmeen)** | Automated compliance verification tools and regulatory data pipelines. | `Python` `SQL` `Docker` |
+| **[PharmaDash](https://github.com/asfiya-tehmeen/PharmaDash-Newsletter)** | Data analytics and market intelligence tracking pharmaceutical commercial trends. | `Python` `Power BI` `SQL` |
+| **[Compliance Automation](https://github.com/asfiya-tehmeen/compliance-report-automation)** | Automated compliance verification tools and regulatory data pipelines. | `Python` `SQL` `Docker` |
 
 ---
 
