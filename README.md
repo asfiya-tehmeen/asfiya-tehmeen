@@ -64,10 +64,10 @@
 
 | Project | What it does | Tech Stack |
 | :--- | :--- | :--- |
-| **[Clinical Trial Patient Matching Agent](https://github.com/asfiya-tehmeen/Clinical-Trial-Patient-Matching-Agent)** | Agentic NLP pipeline parsing EHR summaries, querying 450k+ ClinicalTrials.gov API trials, and using LLM reasoning for criteria evaluation. | `Python` `LLM` `NLP` `Jupyter` |
 | **[Markets Assistant (Production LLM Agent)](https://github.com/asfiya-tehmeen/Markets-Assistant---Production-LLM-Agent)** | Production-grade LLM agent for financial queries demonstrating caching, tracing, evaluation, and reliable deployment. | `Python` `LLM` `Agents` |
 | **[Trader Behaviour Risk Coach](https://github.com/asfiya-tehmeen/trader-behaviour-risk-coach)** | AI coach identifying harmful trading habits (revenge trading, bet-doubling) from contract history with plain-language trade citations. | `Python` `AI` `Analytics` |
 | **[Governed Trading Data Platform](https://github.com/asfiya-tehmeen/governed-trading-data-platform)** | Real-time data pipeline streaming Deriv market prices and simulated trades into BigQuery for client statements and exposure reports. | `Python` `BigQuery` `Data Pipeline` |
+| **[Clinical Trial Patient Matching Agent](https://github.com/asfiya-tehmeen/Clinical-Trial-Patient-Matching-Agent)** | Agentic NLP pipeline parsing EHR summaries, querying 450k+ ClinicalTrials.gov API trials, and using LLM reasoning for criteria evaluation. | `Python` `LLM` `NLP` `Jupyter` |
 | **[Demand Forecasting & Inventory Pipeline](https://github.com/asfiya-tehmeen/demand-forecasting-and-inventory-pipeline)** | SQL-first demand forecasting in DuckDB with horizon-safe windowing features and LightGBM models (achieving a 29% MAE reduction). | `Python` `DuckDB` `SQL` `LightGBM` |
 | **[PharmaDash](https://github.com/asfiya-tehmeen/PharmaDash-Newsletter)** | Data analytics and market intelligence tracking pharmaceutical commercial trends. | `Python` `Power BI` `SQL` |
 
